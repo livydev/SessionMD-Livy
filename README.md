@@ -15,5 +15,4 @@ node .
 * [`MhankBarBar`](https://github.com/MhankBarBar/weabot)
 * [`Ariffb`](https://github.com/ariffb25/stikerinbot)
 * [`BochilGaming`](https://github.com/BochilGaming/games-wabot)
-* [`BochilGaming`](https://github.com/livydev)
-* [`Dika Ardnt.`](https://github.com/DikaArdnt/Hisoka-Morrow)
+* [`Livydev`](https://github.com/livydev)
